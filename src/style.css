@@ -181,3 +181,27 @@ footer nav a:hover {
     text-align: center;
     margin: 1rem 0;
 }
+
+/* Blog Post Styling */
+article {
+    padding: 20px;
+}
+
+article h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+article h2 {
+    font-size: 1.8em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+article p {
+    font-size: 1.1em;
+    line-height: 1.5;
+    margin-bottom: 1em;
+}
+
+/* Add more specific styles as needed (e.g., for lists, code blocks, etc.) */
